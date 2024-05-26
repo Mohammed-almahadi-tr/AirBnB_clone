@@ -1,0 +1,15 @@
+header {
+    background-color: white;
+    height: 70px;
+    width: 100%;
+    border-bottom: 1px solid #CCCCCC;
+}
+
+.logo {
+    margin-left: 20px; /* 20px space at the left */
+    width: 100px; /* Set the width of the logo */
+    height: 50px; /* Set the height of the logo */
+    background-image: url('web_static/Images/logo.png'); /* URL to your logo image */
+    background-size: contain; /* Adjust the background image size */
+    background-repeat: no-repeat; /* Prevent background image from repeating */
+}
